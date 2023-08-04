@@ -1,0 +1,3 @@
+ID приложения	51721825
+Защищённый ключ	nnKQIJTmAbijAIgZE3bj
+Сервисный ключ доступа 26a9cbbc26a9cbbc26a9cbbcb625bcfddd226a926a9cbbc4265111260d35579fbb4ae51
