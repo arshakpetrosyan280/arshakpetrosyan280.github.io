@@ -37,9 +37,12 @@ function authInfo(response) {
       console.log(response);
 }
 VK.Auth.getLoginStatus(authInfo);
-VK.Auth.login(function(response){
-	console.log(response);
-});
+
+window.onload = () => {
+	VK.Auth.login(function(response){
+		alert(response);
+	});
+}
 </script>
 </body>
 </html>
